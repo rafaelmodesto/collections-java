@@ -1,0 +1,8 @@
+collections/list/ExemploList.java
+ collections.list.ExemploList
+collections/queue/ExemploLinkedList.java
+ collections.queue.ExemploLinkedList
+collections/set/ExemploHashSet.java
+ collections.set.ExemploHashSet
+collections/set/ExemploLinkedHashSet.java
+ collections.set.ExemploLinkedHashSet
